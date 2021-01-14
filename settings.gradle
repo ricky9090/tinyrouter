@@ -1,0 +1,6 @@
+include ':submodule'
+include ':tinyrouter-annotation'
+include ':tinyrouter-core'
+include ':tinyrouter-compiler'
+include ':app'
+rootProject.name = "TinyRouter"
